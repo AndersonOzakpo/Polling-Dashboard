@@ -1,0 +1,401 @@
+2023 Sales Date,DBDate,OrderID,ProductID,ProductName,UnitPrice,Duration,TotalSales,CustomerID,First,Last,Email,Voter,Country,Race,Sex,DBSex,Education
+1/1/2023,01/01/2023,1,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113520,Alice,Johnson,alice@example.com,Yes,USA,White.,F,Female,PHD
+1/3/2023,01/03/2023,2,102,Family Package, $ 45.00 ,1, $ 45.00 ,113521,Bob,Smith,bob@example.com,Yes,USA,White.,M,Male,PHD
+1/5/2023,01/05/2023,3,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113522,Charlie,Brown,charlie@example.com,Yes,USA,White.,M,Male,PHD
+1/8/2023,01/08/2023,4,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113523,David,White,david@example.com,Yes,USA,White.,M,Male,PHD
+1/10/2023,01/10/2023,5,105,Consultation, $ 200.00 ,1, $ 200.00 ,113524,Emma,Green,emma@example.com,Yes,USA,White.,F,Female,PHD
+1/12/2023,01/12/2023,6,106,Free Membership, $ -   ,12, $ -   ,113525,Frank,Black,frank@example.com,Yes,USA,White.,M,Male,PHD
+11-Feb,02/11/2023,7,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113526,Tina,Turner,tina@example.com,Yes,USA,White.,F,Female,PHD
+1/18/2023,01/18/2023,8,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113527,Henry,Young,henry@example.com,Yes,USA,White.,M,Male,PHD
+1/20/2023,01/20/2023,9,102,Family Package, $ 45.00 ,3, $ 135.00 ,113528,Irene,Adams,irene@example.com,Yes,USA,White.,M,Male,PHD
+1/22/2023,01/22/2023,10,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113529,Jack,Miller,jack@example.com,Yes,USA,White.,F,Female,PHD
+1/25/2023,01/25/2023,11,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113530,Karen,Hall,karen@example.com,Yes,USA,White.,M,Male,PHD
+1/28/2023,01/28/2023,12,105,Consultation, $ 200.00 ,1, $ 200.00 ,113531,Larry,Harris,larry@example.com,Yes,USA,White.,F,Female,PHD
+12-Aug,08/12/2023,13,106,Free Membership, $ -   ,12, $ -   ,113532,Quinn,Green,quinn@example.com,Yes,USA,White.,M,Male,PHD
+2/2/2023,02/02/2023,14,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113533,Nathan,Carter,nathan@example.com,Yes,USA,Black or African American. ...,M,Male,PHD
+2/5/2023,02/05/2023,15,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113534,Olivia,Martin,olivia@example.com,Yes,USA,Black or African American. ...,M,Male,PHD
+2/8/2023,02/08/2023,16,102,Family Package, $ 45.00 ,3, $ 135.00 ,113535,Paul,Robinson,paul@example.com,Yes,USA,Black or African American. ...,F,Female,PHD
+2/10/2023,02/10/2023,17,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113536,Quinn,Davis,quinn@example.com,Yes,USA,Black or African American. ...,M,Male,PHD
+30-Oct,10/30/2023,18,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113537,White,Tee,white@example.com,Yes,USA,Black or African American. ...,F,Female,Bachelors
+2/16/2023,02/16/2023,19,105,Consultation, $ 200.00 ,1, $ 200.00 ,113538,Sam,Turner,sam@example.com,No,USA,Black or African American. ...,F,Female,Bachelors
+2/18/2023,02/18/2023,20,106,Free Membership, $ -   ,12, $ -   ,113539,Taylor,Brown,taylor@example.com,No,USA,Black or African American. ...,F,Female,Bachelors
+26-Nov,11/26/2023,21,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113540,Abigail,Nguyen,abigail.nguyen@example.com,No,USA,Asian,F,Female,Masters
+26-Nov,11/26/2023,22,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113541,Adam,Patel,adam.patel@example.com   ,No,India,Indian,M,Male,Masters
+26-Nov,11/26/2023,23,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113542,Aisha,Fernandez,aisha.fernandez@example.com,No,Spain,LatinAm,F,Female,Bachelors
+26-Nov,11/26/2023,24,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113543,Akio,Nakamura,akio.nakamura@example.com ,No,Japan,Asian,M,Male,Bachelors
+26-Nov,11/26/2023,25,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113544,Aleksandra,Kowalski,aleksandra.kowalski@example.com,No,Poland,White.,F,Female,No Degree
+26-Nov,11/26/2023,26,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113545,Alessandro,Ricci,alessandro.ricci@example.com,No,Italy,LatinAm,M,Male,Bachelors
+26-Nov,11/26/2023,27,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113546,Alexa,Almeida,alexa.almeida@example.com,No,Brazil,LatinAm,F,Female,Masters
+26-Nov,11/26/2023,28,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113547,Aliyah,Khan,aliyah.khan@example.com,No,Pakistan,Asian. ...,F,Female,No Degree
+26-Nov,11/26/2023,29,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113548,Amelia,Novak,amelia.novak@example.com,No,Czech Republic,White.,F,Female,PHD
+26-Nov,11/26/2023,30,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113549,Ananya,Desai,ananya.desai@example.com,No,India,Asian,F,Female,No Degree
+26-Nov,11/26/2023,31,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113550,Andrei,Popov,andrei.popov@example.com,No,Russia,Black or African American. ...,M,Male,Bachelors
+26-Nov,11/26/2023,32,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113551,Angela,Costa,angela.costa@example.com,No,Portugal,LatinAm,F,Female,No Degree
+26-Nov,11/26/2023,33,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113552,Anika,Kapoor,anika.kapoor@example.com,No,India,Asian,F,Female,No Degree
+26-Nov,11/26/2023,34,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113553,Antonio,Lopez,antonio.lopez@example.com,No,Spain,White.,M,Male,Bachelors
+26-Nov,11/26/2023,35,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113554,Aria,Ibrahim,aria.ibrahim@example.com,No,Lebanon,Asian,F,Female,Masters
+26-Nov,11/26/2023,36,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113555,Arjun,Patel,arjun.patel@example.com,No,India,Asian,M,Male,Bachelors
+26-Nov,11/26/2023,37,106,Free Membership, $ -   ,12, $ -   ,113556,Asuka,Tanaka,asuka.tanaka@example.com,No,Japan,Asian,F,Female,Masters
+26-Nov,11/26/2023,38,106,Free Membership, $ -   ,12, $ -   ,113557,Ayden,Kim,ayden.kim@example.com,No,South Korea,Asian,M,Male,Bachelors
+26-Nov,11/26/2023,39,106,Free Membership, $ -   ,12, $ -   ,113558,Beatriz,Silva,beatriz.silva@example.com,No,Brazil,LatinAm,F,Female,Masters
+26-Nov,11/26/2023,40,106,Free Membership, $ -   ,12, $ -   ,113559,Benito,Morales,benito.morales@example.com,No,Mexico,White.,M,Male,Bachelors
+26-Nov,11/26/2023,41,106,Free Membership, $ -   ,12, $ -   ,113560,Bianca,Sato,bianca.sato@example.com,No,Japan,Asian,F,Female,Masters
+26-Nov,11/26/2023,42,106,Free Membership, $ -   ,12, $ -   ,113561,Boris,Petrov,boris.petrov@example.com,No,Russia,White.,M,Male,Bachelors
+26-Nov,11/26/2023,43,106,Free Membership, $ -   ,12, $ -   ,113562,Caitlin,O'Brien,caitlin.obrien@example.com,No,Ireland,White.,F,Female,Masters
+26-Nov,11/26/2023,44,106,Free Membership, $ -   ,12, $ -   ,113563,Carlos,Rodriguez, carlos.rodriguez@example.co,No, Spain,Hispanic or Latino. ..., M,Male,Highschool
+26-Nov,11/26/2023,45,106,Free Membership, $ -   ,12, $ -   ,113564,Carmen,Vargas,carmen.vargas@example.com,No,Mexico,LatinAm,F,Female,Masters
+26-Nov,11/26/2023,46,106,Free Membership, $ -   ,12, $ -   ,113565,Chisato,Yamada,chisato.yamada@example.com,No,Japan,Asian,F,Female,Masters
+26-Nov,11/26/2023,47,106,Free Membership, $ -   ,12, $ -   ,113566,Chloe,Mitchell,chloe.mitchell@example.com,No,Canada,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,48,106,Free Membership, $ -   ,12, $ -   ,113567,Cristiano,Rossi,cristiano.rossi@example.com,No,Italy,White.,M,Male,Bachelors
+26-Nov,11/26/2023,49,106,Free Membership, $ -   ,12, $ -   ,113568,Dalia,Hassan,dalia.hassan@example.com,No,Egypt,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,50,106,Free Membership, $ -   ,12, $ -   ,113569,Daniel,Ekram,daniel.ekram@example.com,No,Bangladesh,White.,M,Male,Bachelors
+26-Nov,11/26/2023,51,106,Free Membership, $ -   ,12, $ -   ,113570,Daria,Sokolova,daria.sokolova@example.com,No,Russia,White.,F,Female,Masters
+26-Nov,11/26/2023,52,106,Free Membership, $ -   ,12, $ -   ,113571,Diego,Ortega,diego.ortega@example.com,No,Mexico,White.,M,Male,Bachelors
+26-Nov,11/26/2023,53,106,Free Membership, $ -   ,12, $ -   ,113572,Dmitry,Ivanov,dmitry.ivanov@example.com,No,Russia,White.,M,Male,Bachelors
+26-Nov,11/26/2023,54,106,Free Membership, $ -   ,12, $ -   ,113573,Elena,Petrova,elena.petrova@example.com,No,Russia,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,55,106,Free Membership, $ -   ,12, $ -   ,113574,Elijah,Brown,elijah.brown@example.com,No,USA,White.,M,Male,Bachelors
+26-Nov,11/26/2023,56,106,Free Membership, $ -   ,12, $ -   ,113575,Emily,Chang,emily.chang@example.com,No,China,Asian,F,Female,Masters
+26-Nov,11/26/2023,57,106,Free Membership, $ -   ,12, $ -   ,113576,Emre,Yilmaz,emre.yilmaz@example.com,No,Turkey,White.,M,Male,Bachelors
+26-Nov,11/26/2023,58,106,Free Membership, $ -   ,12, $ -   ,113577,Eva,Fischer,eva.fischer@example.com,No,Germany,White.,F,Female,Bachelors
+26-Nov,11/26/2023,59,106,Free Membership, $ -   ,12, $ -   ,113578,Fabio,Moretti,fabio.moretti@example.com,No,Italy,White.,M,Male,Bachelors
+26-Nov,11/26/2023,60,106,Free Membership, $ -   ,12, $ -   ,113579,Farida,Ahmed,farida.ahmed@example.com,No,Egypt,White.,F,Female,Bachelors
+26-Nov,11/26/2023,61,106,Free Membership, $ -   ,12, $ -   ,113580,Felipe,Santos,felipe.santos@example.com,No,Brazil,White.,M,Male,PHD
+26-Nov,11/26/2023,62,106,Free Membership, $ -   ,12, $ -   ,113581,Gabriela,Hernandez, gabriela.hernandez@example.,No, Mexico,Hispanic or Latino. ..., F,Female,Bachelors
+26-Nov,11/26/2023,63,106,Free Membership, $ -   ,12, $ -   ,113582,Gaku,Tanaka,gaku.tanaka@example.com,No,Japan,White.,M,Male,No Degree
+26-Nov,11/26/2023,64,106,Free Membership, $ -   ,12, $ -   ,113583,Giselle,Duarte,giselle.duarte@example.com,No,Portugal,White.,F,Female,Bachelors
+26-Nov,11/26/2023,65,106,Free Membership, $ -   ,12, $ -   ,113584,Guilherme,Oliveira,guilherme.oliveira@example.c,No,Brazil,White.,M,Male,No Degree
+26-Nov,11/26/2023,66,106,Free Membership, $ -   ,12, $ -   ,113585,Hanna,Jansen,hanna.jansen@example.com,No,Netherlands,Black or African American. ...,F,Female,Bachelors
+26-Nov,11/26/2023,67,106,Free Membership, $ -   ,12, $ -   ,113586,Haruto,Suzuki,haruto.suzuki@example.com,No,Japan,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,68,106,Free Membership, $ -   ,12, $ -   ,113587,Heidi,Møller,heidi.moller@example.com,No,Denmark,White.,F,Female,Bachelors
+26-Nov,11/26/2023,69,106,Free Membership, $ -   ,12, $ -   ,113588,Hiroshi,Takahashi, hiroshi.takahashi@example.c,No, Japan,Asian. ..., M,Male,Highschool
+26-Nov,11/26/2023,70,106,Free Membership, $ -   ,12, $ -   ,113589,Ilya,Ivanov,ilya.ivanov@example.com,No,Russia,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,71,106,Free Membership, $ -   ,12, $ -   ,113590,Ingrid,Andersen,ingrid.andersen@example.com,No,Norway,White.,F,Female,Bachelors
+26-Nov,11/26/2023,72,106,Free Membership, $ -   ,12, $ -   ,113591,Isabella,Rossi,isabella.rossi@example.com,No,Italy,White.,F,Female,Bachelors
+26-Nov,11/26/2023,73,106,Free Membership, $ -   ,12, $ -   ,113592,Itzel,Ramirez,itzel.ramirez@example.com,No,Mexico,LatinAm,F,Female,Bachelors
+26-Nov,11/26/2023,74,106,Free Membership, $ -   ,12, $ -   ,113593,Jack,Li,jack.li@example.com,No,China,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,75,106,Free Membership, $ -   ,12, $ -   ,113594,Jade,Kim,jade.kim@example.com,No,South Korea,Asian,F,Female,Bachelors
+26-Nov,11/26/2023,76,106,Free Membership, $ -   ,12, $ -   ,113595,Jamal,Malik,jamal.malik@example.com,No,Pakistan,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,77,106,Free Membership, $ -   ,12, $ -   ,113596,Javier,Fernandez, javier.fernandez@example.co,No, Spain,Hispanic or Latino. ..., M,Male,Highschool
+26-Nov,11/26/2023,78,106,Free Membership, $ -   ,12, $ -   ,113597,Jia,Wei,jia.wei@example.com,No,China,Asian,F,Female,Bachelors
+26-Nov,11/26/2023,79,106,Free Membership, $ -   ,12, $ -   ,113598,João,Costa,joao.costa@example.com,No,Portugal,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,80,106,Free Membership, $ -   ,12, $ -   ,113599,Jolanta,Nowak,jolanta.nowak@example.com,No,Poland,White.,F,Female,Bachelors
+26-Nov,11/26/2023,81,106,Free Membership, $ -   ,12, $ -   ,113600,Juan,Lopez,juan.lopez@example.com,No,Spain,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,82,106,Free Membership, $ -   ,12, $ -   ,113601,Kai,Ishikawa,kai.ishikawa@example.com,No,Japan,Native Hawaiian or Other Pacific Islander. ...,M,Male,No Degree
+26-Nov,11/26/2023,83,106,Free Membership, $ -   ,12, $ -   ,113602,Kaitlyn,Williams,kaitlyn.williams@example.com,No,USA,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,84,106,Free Membership, $ -   ,12, $ -   ,113603,Khaled,Al-Farsi,khaled.al-farsi@example.com,No,Saudi Arabia,Native Hawaiian or Other Pacific Islander. ...,M,Male,No Degree
+26-Nov,11/26/2023,85,106,Free Membership, $ -   ,12, $ -   ,113604,Ethan,Williams,ethan.williams@example.com,No,USA,Black or African American. ...,M,Male,Bachelors
+26-Nov,11/26/2023,86,106,Free Membership, $ -   ,12, $ -   ,113605,Isabella,Kim,isabella.kim@example.com,No,South Korea,Black or African American. ...,F,Female,Bachelors
+26-Nov,11/26/2023,87,106,Free Membership, $ -   ,12, $ -   ,113606,Andrei,Popescu,andrei.popescu@example.com,No,Romania,Black or African American. ...,M,Male,Bachelors
+26-Nov,11/26/2023,88,106,Free Membership, $ -   ,12, $ -   ,113607,Sofia,Almeida,sofia.almeida@example.com,No,Brazil,Black or African American. ...,F,Female,Bachelors
+26-Nov,11/26/2023,89,106,Free Membership, $ -   ,12, $ -   ,113608,Akio,Yamamoto,akio.yamamoto@example.com,No,Japan,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,90,106,Free Membership, $ -   ,12, $ -   ,113609,Clara,Silva,clara.silva@example.com,No,Portugal,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,91,106,Free Membership, $ -   ,12, $ -   ,113610,Ivan,Petrov,ivan.petrov@example.com,No,Russia,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,92,106,Free Membership, $ -   ,12, $ -   ,113611,Aisha,Ahmed,aisha.ahmed@example.com,No,Pakistan,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,93,106,Free Membership, $ -   ,12, $ -   ,113612,Luca,Ferrari,luca.ferrari@example.com,No,Italy,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,94,106,Free Membership, $ -   ,12, $ -   ,113613,Yuki,Tanaka,yuki.tanaka@example.com,No,Japan,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,95,106,Free Membership, $ -   ,12, $ -   ,113614,Miguel,Rodriguez,miguel.rodriguez@example.com,No,Spain,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,96,106,Free Membership, $ -   ,12, $ -   ,113615,Maya,Patel,maya.patel@example.com,No,India,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,97,106,Free Membership, $ -   ,12, $ -   ,113616,Stefan,Fischer,stefan.fischer@example.com,No,Germany,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,98,105,Consultation, $ 200.00 ,1, $ 200.00 ,113617,Aya,Takahashi,aya.takahashi@example.com,No,Japan,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,99,105,Consultation, $ 200.00 ,1, $ 200.00 ,113618,Zara,Khan,zara.khan@example.com,No,Afghanistan,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,100,105,Consultation, $ 200.00 ,1, $ 200.00 ,113619,Mateo,Morales,mateo.morales@example.com,No,Mexico,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,101,105,Consultation, $ 200.00 ,1, $ 200.00 ,113620,Li Wei,Chen,li.wei@example.com,No,China,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,102,105,Consultation, $ 200.00 ,1, $ 200.00 ,113621,Elena,Ivanova,elena.ivanova@example.com,No,Bulgaria,Indian,F,Female,Bachelors
+26-Nov,11/26/2023,103,105,Consultation, $ 200.00 ,1, $ 200.00 ,113622,Malik,Khan,malik.khan@example.com,No,Saudi Arabia,Indian,M,Male,Bachelors
+26-Nov,11/26/2023,104,105,Consultation, $ 200.00 ,1, $ 200.00 ,113623,Leila,Nour,leila.nour@example.com,No,Egypt,White.,F,Female,Bachelors
+26-Nov,11/26/2023,105,105,Consultation, $ 200.00 ,1, $ 200.00 ,113624,Oliver,Müller,oliver.muller@example.com,No,Germany,White.,M,Male,No Degree
+26-Nov,11/26/2023,106,105,Consultation, $ 200.00 ,1, $ 200.00 ,113625,Priya,Verma,priya.verma@example.com,No,India,White.,F,Female,No Degree
+26-Nov,11/26/2023,107,105,Consultation, $ 200.00 ,1, $ 200.00 ,113626,Diego,Ortega,diego.ortega@example.com,No,Mexico,White.,M,Male,No Degree
+26-Nov,11/26/2023,108,105,Consultation, $ 200.00 ,1, $ 200.00 ,113627,Sana,Rahman,sana.rahman@example.com,No,Bangladesh,White.,F,Female,No Degree
+26-Nov,11/26/2023,109,105,Consultation, $ 200.00 ,1, $ 200.00 ,113628,Luca,Moretti,luca.moretti@example.com,No,Italy,White.,M,Male,No Degree
+26-Nov,11/26/2023,110,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113629,Mei,Lin,mei.lin@example.com,No,China,White.,F,Female,No Degree
+26-Nov,11/26/2023,111,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113630,Raphael,Costa,raphael.costa@example.com,No,Portugal,White.,M,Male,No Degree
+26-Nov,11/26/2023,112,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113631,Sakura,Sato,sakura.sato@example.com,No,Japan,White.,F,Female,No Degree
+26-Nov,11/26/2023,113,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113632,Ahmed,El-Masry,ahmed.elmasry@example.com,No,Egypt,White.,M,Male,No Degree
+26-Nov,11/26/2023,114,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113633,Amelia,Novak,amelia.novak@example.com,No,Czech Republic,White.,F,Female,No Degree
+26-Nov,11/26/2023,115,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113634,Carlos,Oliveira,carlos.oliveira@example.com,No,Brazil,White.,M,Male,No Degree
+26-Nov,11/26/2023,116,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113635,Haruka,Suzuki,haruka.suzuki@example.com,No,Japan,White.,F,Female,No Degree
+26-Nov,11/26/2023,117,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113636,Elias,Abadi,elias.abadi@example.com,Yes,Ethiopia,White.,M,Male,No Degree
+26-Nov,11/26/2023,118,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113637,Julia,Nowak,julia.nowak@example.com,No,Poland,White.,F,Female,No Degree
+26-Nov,11/26/2023,119,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113638,Amir,Al-Mansoori,amir.almansoori@example.com,Yes,UAE,White.,M,Male,No Degree
+26-Nov,11/26/2023,120,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113639,Nia,Williams,nia.williams@example.com,No,USA,White.,F,Female,No Degree
+26-Nov,11/26/2023,121,101,Single Membership, $ 5.00 ,12, $ 60.00 ,113640,Renato,Ferreira,renato.ferreira@example.com,Yes,Portugal,White.,M,Male,No Degree
+26-Nov,11/26/2023,122,102,Family Package, $ 45.00 ,3, $ 135.00 ,113641,Mei,Chen,mei.chen@example.com,No,China,White.,F,Female,No Degree
+26-Nov,11/26/2023,123,102,Family Package, $ 45.00 ,3, $ 135.00 ,113642,Alejandro,Gutierrez,alejandro.gutierrez@example.c,Yes,Mexico,White.,M,Male,No Degree
+26-Nov,11/26/2023,124,102,Family Package, $ 45.00 ,3, $ 135.00 ,113643,Priya,Patel,priya.patel@example.com,Yes,India,White.,F,Female,No Degree
+26-Nov,11/26/2023,125,102,Family Package, $ 45.00 ,3, $ 135.00 ,113644,Kai,Watanabe,kai.watanabe@example.com,Yes,Japan,White.,M,Male,No Degree
+26-Nov,11/26/2023,126,102,Family Package, $ 45.00 ,6, $ 270.00 ,113645,Sofia,Rodriguez,sofia.rodriguez@example.com,Yes,Argentina,White.,F,Female,No Degree
+26-Nov,11/26/2023,127,102,Family Package, $ 45.00 ,6, $ 270.00 ,113646,Darius,Kovac,darius.kovac@example.com,Yes,Croatia,White.,M,Male,No Degree
+26-Nov,11/26/2023,128,102,Family Package, $ 45.00 ,6, $ 270.00 ,113647,Hana,Yamamoto,hana.yamamoto@example.com,Yes,Japan,White.,F,Female,No Degree
+26-Nov,11/26/2023,129,102,Family Package, $ 45.00 ,6, $ 270.00 ,113648,Aarav,Verma,aarav.verma@example.com,Yes,India,White.,M,Male,No Degree
+26-Nov,11/26/2023,130,102,Family Package, $ 45.00 ,6, $ 270.00 ,113649,Camila,Costa,camila.costa@example.com,Yes,Brazil,White.,F,Female,No Degree
+26-Nov,11/26/2023,131,102,Family Package, $ 45.00 ,6, $ 270.00 ,113650,Ivan,Kuznetsov,ivan.kuznetsov@example.com,Yes,Russia,White.,M,Male,No Degree
+26-Nov,11/26/2023,132,102,Family Package, $ 45.00 ,6, $ 270.00 ,113651,Yuna,Park,yuna.park@example.com,Yes,South Korea,White.,F,Female,No Degree
+26-Nov,11/26/2023,133,102,Family Package, $ 45.00 ,6, $ 270.00 ,113652,Luca,Russo,luca.russo@example.com,Yes,Italy,White.,M,Male,No Degree
+26-Nov,11/26/2023,134,102,Family Package, $ 45.00 ,6, $ 270.00 ,113653,Fatima,Al-Farsi,fatima.alfarsi@example.com,Yes,Saudi Arabia,White.,F,Female,No Degree
+26-Nov,11/26/2023,135,102,Family Package, $ 45.00 ,9, $ 405.00 ,113654,Diego,Fernandez,diego.fernandez@example.com,Yes,Spain,White.,M,Male,No Degree
+26-Nov,11/26/2023,136,102,Family Package, $ 45.00 ,9, $ 405.00 ,113655,Yui,Ito,yui.ito@example.com,Yes,Japan,White.,F,Female,No Degree
+26-Nov,11/26/2023,137,102,Family Package, $ 45.00 ,9, $ 405.00 ,113656,Rashid,Al-Mansoori,rashid.almansoori@example.com,Yes,UAE,White.,M,Male,No Degree
+26-Nov,11/26/2023,138,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113657,Emma,Lee,emma.lee@example.com,Yes,USA,White.,F,Female,No Degree
+26-Nov,11/26/2023,139,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113658,Kento,Okamoto,kento.okamoto@example.com,Yes,Japan,White.,M,Male,No Degree
+26-Nov,11/26/2023,140,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113659,Lina,Andersen,lina.andersen@example.com,Yes,Denmark,White.,F,Female,No Degree
+26-Nov,11/26/2023,141,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113660,Mateo,Fernandez,mateo.fernandez@example.com,Yes,Argentina,White.,M,Male,No Degree
+26-Nov,11/26/2023,142,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113661,Priya,Rao,priya.rao@example.com,No,India,White.,F,Female,No Degree
+26-Nov,11/26/2023,143,103,Friendship Package, $ 30.00 ,12, $ 360.00 ,113662,Jovan,Petrovic,jovan.petrovic@example.com,No,Serbia,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,144,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113663,Sakura,Takahashi,sakura.takahashi@example.com,No,Japan,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,145,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113664,Carlos,Costa,carlos.costa@example.com,No,Portugal,Black or African American. ...,M,Male,Masters
+26-Nov,11/26/2023,146,106,Free Membership, $ -   ,12, $ -   ,113665,Aria,Malik,aria.malik@example.com,No,Pakistan,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,147,106,Free Membership, $ -   ,12, $ -   ,113666,Marco,Rossi,marco.rossi@example.com,No,Italy,Black or African American. ...,M,Male,Masters
+26-Nov,11/26/2023,148,106,Free Membership, $ -   ,12, $ -   ,113667,Yuna,Kim,yuna.kim@example.com,No,South Korea,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,149,106,Free Membership, $ -   ,12, $ -   ,113668,Adam,Ibrahim, adam.ibrahim@example.com,No,Lebanon,Black or African American. ..., M,Male,Masters
+26-Nov,11/26/2023,150,106,Free Membership, $ -   ,12, $ -   ,113669,Chihiro,Yamamoto,chihiro.yamamoto@example.com,No,Japan,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,151,106,Free Membership, $ -   ,12, $ -   ,113670,Malik,Rahman,malik.rahman@example.com,No,Bangladesh,Black or African American. ...,M,Male,Masters
+26-Nov,11/26/2023,152,106,Free Membership, $ -   ,12, $ -   ,113671,Valentina,Costa,valentina.costa@example.com,No,Brazil,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,153,106,Free Membership, $ -   ,12, $ -   ,113672,Jiro,Tanaka,jiro.tanaka@example.com,No,Japan,Black or African American. ...,M,Male,Masters
+26-Nov,11/26/2023,154,106,Free Membership, $ -   ,12, $ -   ,113673,Sofia,Martinez,sofia.martinez@example.com,No,Mexico,Black or African American. ...,F,Female,Masters
+26-Nov,11/26/2023,155,106,Free Membership, $ -   ,12, $ -   ,113674,Liam,O'Brien,liam.obrien@example.com,No,Ireland,Asian,M,Male,Masters
+26-Nov,11/26/2023,156,106,Free Membership, $ -   ,12, $ -   ,113675,Nour,Al-Masry,nour.almasry@example.com,No,Egypt,Asian,F,Female,Masters
+26-Nov,11/26/2023,157,106,Free Membership, $ -   ,12, $ -   ,113676,Mei,Huang,mei.huang@example.com,No,China,Asian,F,Female,Masters
+26-Nov,11/26/2023,158,106,Free Membership, $ -   ,12, $ -   ,113677,Rafael,Oliveira,rafael.oliveira@example.com,No,Brazil,Asian,M,Male,Masters
+26-Nov,11/26/2023,159,106,Free Membership, $ -   ,12, $ -   ,113678,Yuki,Suzuki,yuki.suzuki@example.com,No,Japan,Asian,F,Female,Masters
+26-Nov,11/26/2023,160,106,Free Membership, $ -   ,12, $ -   ,113679,Ahmed,Hassan,ahmed.hassan@example.com,No,Egypt,Asian,M,Male,Masters
+26-Nov,11/26/2023,161,106,Free Membership, $ -   ,12, $ -   ,113680,Alina,Ivanova,alina.ivanova@example.com,No,Russia,Asian,F,Female,Masters
+26-Nov,11/26/2023,162,106,Free Membership, $ -   ,12, $ -   ,113681,Anton,Petrov,anton.petrov@example.com,No,Russia,Asian,M,Male,Masters
+26-Nov,11/26/2023,163,106,Free Membership, $ -   ,12, $ -   ,113682,Zara,Khan,zara.khan@example.com,No,Pakistan,Asian,F,Female,Masters
+26-Nov,11/26/2023,164,106,Free Membership, $ -   ,12, $ -   ,113683,Ethan,Nguyen,ethan.nguyen@example.com,No,Vietnam,Asian,M,Male,Masters
+26-Nov,11/26/2023,165,106,Free Membership, $ -   ,12, $ -   ,113684,Kana,Yamada,kana.yamada@example.com,No,Japan,Asian,F,Female,Masters
+26-Nov,11/26/2023,166,106,Free Membership, $ -   ,12, $ -   ,113685,Marco,Fernandez,marco.fernandez@example.com,No,Spain,Asian,M,Male,Masters
+26-Nov,11/26/2023,167,106,Free Membership, $ -   ,12, $ -   ,113686,Yara,Abadi, yara.abadi@example.com,No,Lebanon,Asian, F,Female,Masters
+26-Nov,11/26/2023,168,106,Free Membership, $ -   ,12, $ -   ,113687,Noah,Fischer,noah.fischer@example.com,No,Germany,Asian,M,Male,Masters
+26-Nov,11/26/2023,169,106,Free Membership, $ -   ,12, $ -   ,113688,Mei,Chang,mei.chang@example.com,No,Taiwan,Asian,F,Female,Masters
+26-Nov,11/26/2023,170,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113689,Rafael,Rodriguez, rafael.rodriguez@example.com,No, Spain,Asian, M,Male,Masters
+26-Nov,11/26/2023,171,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113690,Aisha,Patel,aisha.patel@example.com,No,India,Asian,F,Female,Masters
+26-Nov,11/26/2023,172,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113691,Kaito,Watanabe,kaito.watanabe@example.com,No,Japan,Asian,M,Male,Masters
+26-Nov,11/26/2023,173,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113692,Valeria,Costa,valeria.costa@example.com,No,Portugal,Asian,F,Female,Masters
+26-Nov,11/26/2023,174,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113693,Alexei,Ivanov,alexei.ivanov@example.com,No,Russia,Asian,M,Male,Masters
+26-Nov,11/26/2023,175,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113694,Yuna,Park,yuna.park@example.com,No,South Korea,Asian,F,Female,Masters
+26-Nov,11/26/2023,176,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113695,Matteo,Bianchi,matteo.bianchi@example.com,No,Italy,Asian,M,Male,No Degree
+26-Nov,11/26/2023,177,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113696,Leila,Al-Farsi,leila.alfarsi@example.com,No,Saudi Arabia,Asian,F,Female,No Degree
+26-Nov,11/26/2023,178,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113697,Ryan,Lee,ryan.lee@example.com,No,USA,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,179,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113698,Mei,Kato,mei.kato@example.com,No,Japan,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,180,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113699,Eli,Morales,eli.morales@example.com,No,Mexico,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,181,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113700,Aaradhya,Verma,aaradhya.verma@example.com,No,India,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,182,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113701,Luca,Russo,luca.russo@example.com,No,Italy,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,183,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113702,Yuki,Sato,yuki.sato@example.com,No,Japan,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,184,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113703,Samir,Patel,samir.patel@example.com,No,India,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,185,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113704,Elin,Hansen,elin.hansen@example.com,No,Norway,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,186,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113705,Leo,Silva,leo.silva@example,No,Brazil,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,187,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113706,Haruka,Takahashi,haruka.takahashi@example.com,No,Japan,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,188,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113707,Ahmed,El-Masry,ahmed.elmasry@example.com,No,Egypt,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,189,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113708,Olivia,Chen,olivia.chen@example.com,No,China,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,190,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113709,Tomás,Fernandez,tomas.fernandez@example.com,No,Spain,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,191,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113710,Sana,Malik,sana.malik@example.com,No,Pakistan,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,192,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113711,Ivan,Popov,ivan.popov@example.com,No,Russia,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,193,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113712,Mei,Wang,mei.wang@example.com,No,China,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,194,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113713,João,Costa,joao.costa@example.com,No,Portugal,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,195,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113714,Yui,Ito,yui.ito@example.com,No,Japan,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,196,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113715,Malik,Ali,malik.ali@example.com,No,Pakistan,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,197,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113716,Alina,Ivanova,alina.ivanova@example.com,No,Russia,Black or African American. ...,F,Female,No Degree
+26-Nov,11/26/2023,198,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113717,Lorenzo,Moretti,lorenzo.moretti@example.com,No,Italy,Black or African American. ...,M,Male,No Degree
+26-Nov,11/26/2023,199,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113718,Yuki,Nakamura,yuki.nakamura@example.com,No,Japan,Black or African American. ...,F,Female,No Degree
+15-May,05/15/2023,200,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113719,Ahmed,Hassan,ahmed.hassan@example.com,No,Egypt,Black or African American. ...,M,Male,No Degree
+16-May,05/16/2023,201,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113720,Mia,Almeida,mia.almeida@example.com,No,Brazil,Black or African American. ...,F,Female,No Degree
+17-May,05/17/2023,202,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113721,Kenji,Tanaka,kenji.tanaka@example.com,No,Japan,Black or African American. ...,M,Male,No Degree
+18-May,05/18/2023,203,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113722,Amina,Ali,amina.ali@example.com,No,Pakistan,Black or African American. ...,F,Female,No Degree
+19-May,05/19/2023,204,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113723,Oliver,Smith,oliver.smith@example.com,No,UK,White.,M,Male,No Degree
+20-May,05/20/2023,205,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113724,Mei,Chen,mei.chen@example.com,Yes,China,White.,F,Female,No Degree
+21-May,05/21/2023,206,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113725,Leonardo,Costa,leonardo.costa@example.com,Yes,Brazil,White.,M,Male,PHD
+22-May,05/22/2023,207,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113726,Sakura,Yamamoto,sakura.yamamoto@example.com,Yes,Japan,White.,F,Female,PHD
+23-May,05/23/2023,208,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113727,Zayn,Khan,zayn.khan@example.com,Yes,Pakistan,White.,M,Male,PHD
+24-May,05/24/2023,209,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113728,Hanna,Jansen,hanna.jansen@example.com,Yes,Netherlands,White.,F,Female,PHD
+25-May,05/25/2023,210,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113729,Kazuki,Suzuki,kazuki.suzuki@example.com,Yes,Japan,White.,M,Male,PHD
+26-May,05/26/2023,211,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113730,Fatima,Al-Farsi,fatima.alfarsi@example.com,Yes,Saudi Arabia,White.,F,Female,PHD
+27-May,05/27/2023,212,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113731,Enzo,Rossi,enzo.rossi@example.com,Yes,Italy,White.,M,Male,PHD
+28-May,05/28/2023,213,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113732,Yuna,Kim,yuna.kim@example.com,Yes,South Korea,White.,F,Female,PHD
+29-May,05/29/2023,214,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113733,Aarav,Patel,aarav.patel@example.com,Yes,India,White.,M,Male,PHD
+30-May,05/30/2023,215,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113734,Elena,Petrova,elena.petrova@example.com,Yes,Russia,White.,F,Female,PHD
+31-May,05/31/2023,216,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113735,Leo,Costa,leo.costa@example.com,Yes,Portugal,White.,M,Male,PHD
+1-Jun,06/01/2023,217,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113736,Mei Ling,Wong,mei.ling.wong@example.com,Yes,Malaysia,White.,F,Female,PHD
+2-Jun,06/02/2023,218,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113737,Raul,Rodriguez, raul.rodriguez@example.com,Yes, Spain,White., M,Male,PHD
+3-Jun,06/03/2023,219,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113738,Yuki,Sato,yuki.sato@example.com,Yes,Japan,White.,F,Female,PHD
+4-Jun,06/04/2023,220,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113739,Ali,Al-Mansoori,ali.almansoori@example.com,Yes,UAE,White.,M,Male,PHD
+5-Jun,06/05/2023,221,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113740,Sofia,Costa,sofia.costa@example.com,Yes,Portugal,White.,F,Female,PHD
+6-Jun,06/06/2023,222,104,HoneyMoon Package, $ 10.00 ,12, $ 120.00 ,113741,Hiroshi,Tanaka,hiroshi.tanaka@example.com,Yes,Japan,White.,M,Male,PHD
+7-Jun,06/07/2023,223,104,HoneyMoon Package, $ 10.00 ,12, $ 120.00 ,113742,Priya,Verma,priya.verma@example.com,Yes,India,White.,F,Female,PHD
+8-Jun,06/08/2023,224,104,HoneyMoon Package, $ 10.00 ,12, $ 120.00 ,113743,Kaito,Watanabe,kaito.watanabe@example.com,Yes,Japan,White.,M,Male,PHD
+9-Jun,06/09/2023,225,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113744,Valentina,Silva,valentina.silva@example.com,Yes,Brazil,White.,F,Female,PHD
+10-Jun,06/10/2023,226,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113745,Hiroki,Yamamoto,hiroki.yamamoto@example.com,Yes,Japan,White.,M,Male,PHD
+11-Jun,06/11/2023,227,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113746,Leila,Malik,leila.malik@example.com,Yes,Pakistan,White.,F,Female,PHD
+12-Jun,06/12/2023,228,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113747,Luca,Moretti,luca.moretti@example.com,Yes,Italy,White.,M,Male,PHD
+13-Jun,06/13/2023,229,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113748,Mei,Wang,mei.wang@example.com,Yes,China,White.,F,Female,Bachelors
+14-Jun,06/14/2023,230,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113749,Rafael,Costa,rafael.costa@example.com,Yes,Portugal,White.,M,Male,Bachelors
+15-Jun,06/15/2023,231,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113750,Hana,Suzuki,hana.suzuki@example.com,Yes,Japan,White.,F,Female,Bachelors
+16-Jun,06/16/2023,232,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113751,Ibrahim,Hassan,ibrahim.hassan@example.com,Yes,Egypt,White.,M,Male,Bachelors
+17-Jun,06/17/2023,233,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113752,Mia,Almeida,mia.almeida@example.com,Yes,Brazil,White.,F,Female,Bachelors
+18-Jun,06/18/2023,234,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113753,Yuki,Tanaka,yuki.tanaka@example.com,Yes,Japan,White.,M,Male,Bachelors
+19-Jun,06/19/2023,235,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113754,Mei,Chang,mei.chang@example.com,Yes,China,White.,F,Female,Bachelors
+20-Jun,06/20/2023,236,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113755,Akira,Kimura,akira.kimura@example.com,Yes,Japan,White.,M,Male,Bachelors
+21-Jun,06/21/2023,237,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113756,Emma,Rodriguez, emma.rodriguez@example.com,Yes, Spain,White., F,Female,Bachelors
+22-Jun,06/22/2023,238,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113757,Aarav,Verma,aarav.verma@example.com,Yes,India,White.,M,Male,Bachelors
+23-Jun,06/23/2023,239,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113758,Sophia,Costa,sophia.costa@example.com,Yes,Portugal,White.,F,Female,Bachelors
+24-Jun,06/24/2023,240,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113759,Kazuki,Nakamura,kazuki.suzuki@example.com,Yes,China,White.,F,Female,Bachelors
+25-Jun,06/25/2023,241,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113760,Aiden,Smith,aiden.smith@example.com,Yes,USA,White.,M,Male,Bachelors
+26-Jun,06/26/2023,242,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113761,Sofia,Martinez,sofia.martinez@example.com,Yes,Mexico,White.,F,Female,Bachelors
+27-Jun,06/27/2023,243,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113762,Luca,Ferrari,luca.ferrari@example.com,Yes,Italy,White.,M,Male,Bachelors
+28-Jun,06/28/2023,244,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113763,Mia,Almeida,mia.almeida@example.com,Yes,Brazil,White.,F,Female,Bachelors
+29-Jun,06/29/2023,245,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113764,Haruto,Takahashi,haruto.takahashi@example.com,Yes,Japan,White.,M,Male,Bachelors
+30-Jun,06/30/2023,246,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113765,Isabella,Costa,isabella.costa@example.com,Yes,Portugal,White.,F,Female,Bachelors
+1-Jul,07/01/2023,247,104,HoneyMoon Package, $ 10.00 ,1, $ 10.00 ,113766,Arjun,Patel,arjun.patel@example.com,Yes,India,White.,M,Male,Bachelors
+2-Jul,07/02/2023,248,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113767,Sakura,Yamamoto,sakura.yamamoto@example.com,Yes,Japan,White.,F,Female,Bachelors
+3-Jul,07/03/2023,249,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113768,Matteo,Bianchi,matteo.bianchi@example.com,Yes,Italy,White.,M,Male,Bachelors
+4-Jul,07/04/2023,250,104,HoneyMoon Package, $ 10.00 ,3, $ 30.00 ,113769,Aria,Khan,aria.khan@example.com,Yes,Pakistan,White.,F,Female,Bachelors
+5-Jul,07/05/2023,251,106,Free Membership, $ -   ,12, $ -   ,113770,Elias,Abadi, elias.abadi@example.com,Yes,Lebanon,White., M,Male,Bachelors
+6-Jul,07/06/2023,252,106,Free Membership, $ -   ,12, $ -   ,113771,Camila,Rodriguez, camila.rodriguez@example.com,Yes, Spain,White., F,Female,Bachelors
+7-Jul,07/07/2023,253,106,Free Membership, $ -   ,12, $ -   ,113772,Kenta,Suzuki,kenta.suzuki@example.com,Yes,Japan,White.,M,Male,Bachelors
+8-Jul,07/08/2023,254,106,Free Membership, $ -   ,12, $ -   ,113773,Valeria,Costa,valeria.costa@example.com,Yes,Brazil,White.,F,Female,Bachelors
+9-Jul,07/09/2023,255,106,Free Membership, $ -   ,12, $ -   ,113774,Leo,Oliveira,leo.oliveira@example.com,Yes,Portugal,White.,M,Male,Bachelors
+10-Jul,07/10/2023,256,106,Free Membership, $ -   ,12, $ -   ,113775,Mei,Chang,mei.chang@example.com,Yes,China,White.,F,Female,Bachelors
+11-Jul,07/11/2023,257,106,Free Membership, $ -   ,12, $ -   ,113776,Alejandro,Gutierrez,alejandro.gutierrez@example.com,Yes,Mexico,White.,M,Male,Bachelors
+12-Jul,07/12/2023,258,106,Free Membership, $ -   ,12, $ -   ,113777,Yuna,Kim,yuna.kim@example.com,Yes,South Korea,White.,F,Female,Bachelors
+13-Jul,07/13/2023,259,106,Free Membership, $ -   ,12, $ -   ,113778,Aarav,Verma,aarav.verma@example.com,Yes,India,White.,M,Male,Bachelors
+14-Jul,07/14/2023,260,106,Free Membership, $ -   ,12, $ -   ,113779,Hiroshi,Tanaka,hiroshi.tanaka@example.com,Yes,Japan,White.,M,Male,Bachelors
+15-Jul,07/15/2023,261,106,Free Membership, $ -   ,12, $ -   ,113780,Fatima,Al-Farsi,fatima.alfarsi@example.com,Yes,Saudi Arabia,White.,F,Female,Bachelors
+16-Jul,07/16/2023,262,106,Free Membership, $ -   ,12, $ -   ,113781,Emma,Lee,emma.lee@example.com,Yes,USA,White.,F,Female,Bachelors
+17-Jul,07/17/2023,263,106,Free Membership, $ -   ,12, $ -   ,113782,Kaito,Watanabe,kaito.watanabe@example.com,Yes,Japan,White.,M,Male,Bachelors
+18-Jul,07/18/2023,264,106,Free Membership, $ -   ,12, $ -   ,113783,Sofia,Silva,sofia.silva@example.com,Yes,Portugal,White.,F,Female,Bachelors
+19-Jul,07/19/2023,265,106,Free Membership, $ -   ,12, $ -   ,113784,Ahmed,Hassan,ahmed.hassan@example.com,Yes,Egypt,White.,M,Male,Bachelors
+20-Jul,07/20/2023,266,106,Free Membership, $ -   ,12, $ -   ,113785,Isla,Rodriguez, isla.rodriguez@example.com,Yes, Spain,White., F,Female,Bachelors
+21-Jul,07/21/2023,267,106,Free Membership, $ -   ,12, $ -   ,113786,Ravi,Patel,ravi.patel@example.com,Yes,India,White.,M,Male,Bachelors
+22-Jul,07/22/2023,268,106,Free Membership, $ -   ,12, $ -   ,113787,Yuki,Nakamura,yuki.nakamura@example.com,Yes,Japan,White.,F,Female,Bachelors
+23-Jul,07/23/2023,269,106,Free Membership, $ -   ,12, $ -   ,113788,Ethan,Nguyen,ethan.nguyen@example.com,Yes,Vietnam,White.,M,Male,Bachelors
+24-Jul,07/24/2023,270,106,Free Membership, $ -   ,12, $ -   ,113789,Naomi,Sato,naomi.sato@example.com,Yes,Japan,White.,F,Female,Bachelors
+25-Jul,07/25/2023,271,106,Free Membership, $ -   ,12, $ -   ,113790,Lucas,Costa,lucas.costa@example.com,Yes,Brazil,White.,M,Male,Bachelors
+26-Jul,07/26/2023,272,106,Free Membership, $ -   ,12, $ -   ,113791,Mei Ling,Wong,mei.ling.wong@example.com,Yes,Malaysia,White.,F,Female,Bachelors
+27-Jul,07/27/2023,273,106,Free Membership, $ -   ,12, $ -   ,113792,Diego,Fernandez,diego.fernandez@example.com,Yes,Spain,White.,M,Male,Masters
+28-Jul,07/28/2023,274,106,Free Membership, $ -   ,12, $ -   ,113793,Aisha,Ali,aisha.ali@example.com,Yes,Pakistan,White.,F,Female,Masters
+29-Jul,07/29/2023,275,106,Free Membership, $ -   ,12, $ -   ,113794,Oliver,Müller,oliver.muller@example.com,Yes,Germany,White.,M,Male,Masters
+30-Jul,07/30/2023,276,106,Free Membership, $ -   ,12, $ -   ,113795,Mei,Kim,mei.kim@example.com,Yes,South Korea,White.,F,Female,Masters
+31-Jul,07/31/2023,277,106,Free Membership, $ -   ,12, $ -   ,113796,Lorenzo,Moretti,lorenzo.moretti@example.com,Yes,Italy,White.,M,Male,Masters
+1-Aug,08/01/2023,278,106,Free Membership, $ -   ,12, $ -   ,113797,Yuna,Park,yuna.park@example.com,Yes,South Korea,White.,F,Female,Masters
+2-Aug,08/02/2023,279,106,Free Membership, $ -   ,12, $ -   ,113798,Malik,Al-Mansoori,malik.almansoori@example.com,Yes,UAE,White.,M,Male,Masters
+3-Aug,08/03/2023,280,106,Free Membership, $ -   ,12, $ -   ,113799,Sophia,Costa,sophia.costa@example.com,Yes,Portugal,White.,F,Female,Masters
+4-Aug,08/04/2023,281,106,Free Membership, $ -   ,12, $ -   ,113800,Akio,Yamamoto,akio.yamamoto@example.com,Yes,Japan,White.,M,Male,Masters
+5-Aug,08/05/2023,282,106,Free Membership, $ -   ,12, $ -   ,113801,Priya,Verma,priya.verma@example.com,Yes,India,White.,F,Female,Masters
+6-Aug,08/06/2023,283,106,Free Membership, $ -   ,12, $ -   ,113802,Kaito,Watanabe,kaito.watanabe@example.com,Yes,Japan,White.,M,Male,Masters
+7-Aug,08/07/2023,284,106,Free Membership, $ -   ,12, $ -   ,113803,Valentina,Silva,valentina.silva@example.com,Yes,Brazil,White.,F,Female,Masters
+8-Aug,08/08/2023,285,106,Free Membership, $ -   ,12, $ -   ,113804,Hiroki,Yamamoto,hiroki.yamamoto@example.com      ,No,Japan,White.,M,Male,Masters
+9-Aug,08/09/2023,286,106,Free Membership, $ -   ,12, $ -   ,113805,Leila,Malik,leila.malik@example.com,No,Pakistan,White.,F,Female,Masters
+10-Aug,08/10/2023,287,106,Free Membership, $ -   ,12, $ -   ,113806,Luca,Moretti,luca.moretti@example.com,No,Italy,White.,M,Male,Masters
+11-Aug,08/11/2023,288,106,Free Membership, $ -   ,12, $ -   ,113807,Mei,Wang,mei.wang@example.com,No,China,White.,F,Female,Masters
+12-Aug,08/12/2023,289,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113808,Rafael,Costa,rafael.costa@example.com         ,No,Portugal,White.,M,Male,Masters
+13-Aug,08/13/2023,290,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113809,Hana,Suzuki,hana.suzuki@example.com,No,Japan,White.,F,Female,Masters
+14-Aug,08/14/2023,291,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113810,Ibrahim,Hassan,ibrahim.hassan@example.com       ,No,Egypt,White.,M,Male,Masters
+15-Aug,08/15/2023,292,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113811,Mia,Almeida,mia.almeida@example.com,No,Brazil,White.,F,Female,Masters
+16-Aug,08/16/2023,293,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113812,Yuki,Tanaka,yuki.tanaka@example.com,No,Japan,White.,M,Male,Masters
+17-Aug,08/17/2023,294,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113813,Mei,Chang,mei.chang@example.com,No,China,White.,F,Female,Masters
+18-Aug,08/18/2023,295,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113814,Akira,Kimura,akira.kimura@example.com         ,No,Japan,White.,M,Male,Masters
+19-Aug,08/19/2023,296,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113815,Emma,Rodriguez, emma.rodriguez@example.com,No, Spain,White., F,Female,Masters
+20-Aug,08/20/2023,297,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113816,Aarav,Verma,aarav.verma@example.com,No,India,White.,M,Male,Masters
+21-Aug,08/21/2023,298,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113817,Sophia,Costa,sophia.costa@example.com,No,Portugal,White.,F,Female,Masters
+22-Aug,08/22/2023,299,101,Single Membership, $ 5.00 ,3, $ 15.00 ,113818,Kazuki,Nakamura,kazuki.nakamura@example.com      ,No,Japan,White.,M,Male,Masters
+23-Aug,08/23/2023,300,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113819,Yuna,Kim,yuna.kim@example.com,No,South Korea,White.,F,Female,Masters
+24-Aug,08/24/2023,301,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113820,Ali,Al-Mansoori,ali.almansoori@example.com,No,UAE,White.,M,Male,Masters
+25-Aug,08/25/2023,302,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113821,Sofia,Costa,sofia.costa@example.com,No,Portugal,White.,F,Female,Masters
+26-Aug,08/26/2023,303,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113822,Hiroshi,Tanaka,hiroshi.tanaka@example.com,No,Japan,White.,M,Male,Masters
+27-Aug,08/27/2023,304,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113823,Priya,Verma,priya.verma@example.com,No,India,White.,F,Female,Masters
+28-Aug,08/28/2023,305,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113824,Kaito,Watanabe,kaito.watanabe@example.com,No,Japan,White.,M,Male,Masters
+29-Aug,08/29/2023,306,101,Single Membership, $ 5.00 ,6, $ 30.00 ,113825,Valentina,Silva,valentina.silva@example.com,No,Brazil,White.,F,Female,Masters
+30-Aug,08/30/2023,307,105,Consultation, $ 200.00 ,1, $ 200.00 ,113826,Hiroki,Yamamoto,hiroki.yamamoto@example.com      ,No,Japan,White.,M,Male,Masters
+31-Aug,08/31/2023,308,105,Consultation, $ 200.00 ,1, $ 200.00 ,113827,Leila,Malik,leila.malik@example.com,No,Pakistan,White.,F,Female,Masters
+1-Sep,09/01/2023,309,105,Consultation, $ 200.00 ,1, $ 200.00 ,113828,Luca,Moretti,luca.moretti@example.com,No,Italy,White.,M,Male,Masters
+2-Sep,09/02/2023,310,105,Consultation, $ 200.00 ,1, $ 200.00 ,113829,Mei,Wang,mei.wang@example.com,No,China,White.,F,Female,Masters
+3-Sep,09/03/2023,311,105,Consultation, $ 200.00 ,1, $ 200.00 ,113830,Rafael,Costa,rafael.costa@example.com         ,No,Portugal,White.,M,Male,Masters
+4-Sep,09/04/2023,312,105,Consultation, $ 200.00 ,1, $ 200.00 ,113831,Hana,Suzuki,hana.suzuki@example.com,No,Japan,White.,F,Female,Masters
+5-Sep,09/05/2023,313,105,Consultation, $ 200.00 ,1, $ 200.00 ,113832,Ibrahim,Hassan,ibrahim.hassan@example.com       ,No,Egypt,White.,M,Male,Masters
+6-Sep,09/06/2023,314,105,Consultation, $ 200.00 ,1, $ 200.00 ,113833,Mia,Almeida,mia.almeida@example.com,No,Brazil,White.,F,Female,Masters
+7-Sep,09/07/2023,315,105,Consultation, $ 200.00 ,1, $ 200.00 ,113834,Yuki,Tanaka,yuki.tanaka@example.com,No,Japan,White.,M,Male,Masters
+8-Sep,09/08/2023,316,105,Consultation, $ 200.00 ,1, $ 200.00 ,113835,Mei,Chang,mei.chang@example.com,No,China,White.,F,Female,Masters
+9-Sep,09/09/2023,317,105,Consultation, $ 200.00 ,1, $ 200.00 ,113836,Akira,Kimura,akira.kimura@example.com         ,No,Japan,White.,M,Male,Masters
+10-Sep,09/10/2023,318,105,Consultation, $ 200.00 ,1, $ 200.00 ,113837,Emma,Rodriguez, emma.rodriguez@example.com,No, Spain,White., F,Female,Masters
+11-Sep,09/11/2023,319,105,Consultation, $ 200.00 ,1, $ 200.00 ,113838,Aarav,Verma,aarav.verma@example.com,No,India,White.,M,Male,Masters
+12-Sep,09/12/2023,320,105,Consultation, $ 200.00 ,1, $ 200.00 ,113839,Sophia,Costa,sophia.costa@example.com,No,Portugal,White.,F,Female,Masters
+13-Sep,09/13/2023,321,105,Consultation, $ 200.00 ,1, $ 200.00 ,113840,Kazuki,Nakamura,kazuki.nakamura@example.com      ,No,Japan,White.,M,Male,Masters
+14-Sep,09/14/2023,322,105,Consultation, $ 200.00 ,1, $ 200.00 ,113841,Yuna,Kim,yuna.kim@example.com,No,South Korea,White.,F,Female,Masters
+15-Sep,09/15/2023,323,105,Consultation, $ 200.00 ,1, $ 200.00 ,113842,Ali,Al-Mansoori,ali.almansoori@example.com,No,UAE,White.,M,Male,Masters
+16-Sep,09/16/2023,324,105,Consultation, $ 200.00 ,1, $ 200.00 ,113843,Sofia,Costa,sofia.costa@example.com,No,Portugal,White.,F,Female,Masters
+17-Sep,09/17/2023,325,105,Consultation, $ 200.00 ,1, $ 200.00 ,113844,Hiroshi,Tanaka,hiroshi.tanaka@example.com,No,Japan,White.,M,Male,Masters
+18-Sep,09/18/2023,326,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113845,Priya,Verma,priya.verma@example.com,No,India,White.,F,Female,Masters
+19-Sep,09/19/2023,327,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113846,Kaito,Watanabe,kaito.watanabe@example.com,No,Japan,White.,M,Male,Masters
+20-Sep,09/20/2023,328,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113847,Valentina,Silva,valentina.silva@example.com,No,Brazil,White.,F,Female,Masters
+21-Sep,09/21/2023,329,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113848,Hiroki,Yamamoto,hiroki.yamamoto@example.com      ,No,Japan,White.,M,Male,Masters
+22-Sep,09/22/2023,330,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113849,Leila,Malik,leila.malik@example.com,No,Pakistan,White.,F,Female,Masters
+23-Sep,09/23/2023,331,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113850,Luca,Moretti,luca.moretti@example.com,No,Italy,White.,M,Male,Masters
+24-Sep,09/24/2023,332,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113851,Mei,Wang,mei.wang@example.com,No,China,White.,F,Female,Masters
+25-Sep,09/25/2023,333,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113852,Rafael,Costa,rafael.costa@example.com         ,No,Portugal,White.,M,Male,Masters
+26-Sep,09/26/2023,334,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113853,Hana,Suzuki,hana.suzuki@example.com,No,Japan,White.,F,Female,Masters
+27-Sep,09/27/2023,335,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113854,Ibrahim,Hassan,ibrahim.hassan@example.com       ,No,Egypt,White.,M,Male,Masters
+28-Sep,09/28/2023,336,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113855,Mia,Almeida,mia.almeida@example.com,No,Brazil,White.,F,Female,Masters
+29-Sep,09/29/2023,337,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113856,Yuki,Tanaka,yuki.tanaka@example.com,No,Japan,White.,M,Male,Masters
+30-Sep,09/30/2023,338,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113857,Mei,Chang,mei.chang@example.com,No,China,White.,F,Female,Masters
+1-Oct,10/01/2023,339,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113858,Akira,Kimura,akira.kimura@example.com         ,No,Japan,White.,M,Male,Masters
+2-Oct,10/02/2023,340,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113859,Emma,Rodriguez, emma.rodriguez@example.com,No, Spain,White., F,Female,Masters
+3-Oct,10/03/2023,341,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113860,Aarav,Verma,aarav.verma@example.com,No,India,White.,M,Male,Masters
+4-Oct,10/04/2023,342,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113861,Sophia,Costa,sophia.costa@example.com,No,Portugal,White.,F,Female,Masters
+5-Oct,10/05/2023,343,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113862,Kazuki,Nakamura,kazuki.nakamura@example.com      ,No,Japan,White.,M,Male,Masters
+6-Oct,10/06/2023,344,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113863,Yuna,Kim,yuna.kim@example.com,No,South Korea,White.,F,Female,Masters
+7-Oct,10/07/2023,345,107,Ultimate Package,$50.00 ,3, $ 150.00 ,113864,Ali,Al-Mansoori,ali.almansoori@example.com,No,UAE,White.,M,Male,Masters
+8-Oct,10/08/2023,346,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113865,Sofia,Costa,sofia.costa@example.com,Yes,Portugal,White.,F,Female,Masters
+9-Oct,10/09/2023,347,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113866,Hiroshi,Tanaka,hiroshi.tanaka@example.com,Yes,Japan,White.,M,Male,Masters
+10-Oct,10/10/2023,348,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113867,Priya,Verma,priya.verma@example.com,Yes,India,White.,F,Female,Masters
+11-Oct,10/11/2023,349,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113868,Kaito,Watanabe,kaito.watanabe@example.com,Yes,Japan,White.,M,Male,Masters
+12-Oct,10/12/2023,350,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113869,Valentina,Silva,valentina.silva@example.com,Yes,Brazil,White.,F,Female,Masters
+13-Oct,10/13/2023,351,107,Ultimate Package,$50.00 ,1, $ 50.00 ,113870,Hiroki,Yamamoto,hiroki.yamamoto@example.com      ,Yes,Japan,White.,M,Male,Masters
+14-Oct,10/14/2023,352,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113871,Leila,Malik,leila.malik@example.com,Yes,Pakistan,White.,F,Female,Masters
+15-Oct,10/15/2023,353,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113872,Luca,Moretti,Luca@example.com,Yes,Italy,White.,M,Male,Masters
+16-Oct,10/16/2023,354,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113873,Liam,Smith,liam.smith@example.com,Yes,USA,White.,M,Male,Masters
+17-Oct,10/17/2023,355,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113874,Aria,Patel,aria.patel@example.com,Yes,India,White.,F,Female,Masters
+18-Oct,10/18/2023,356,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113875,Carlos,Costa,carlos.costa@example.com,Yes,Portugal,White.,M,Male,Masters
+19-Oct,10/19/2023,357,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113876,Mei,Yamamoto,mei.yamamoto@example.com,Yes,Japan,White.,F,Female,Masters
+20-Oct,10/20/2023,358,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113877,Malik,Rahman,malik.rahman@example.com,Yes,Bangladesh,White.,M,Male,Masters
+21-Oct,10/21/2023,359,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113878,Valentina,Costa,valentina.costa@example.com,Yes,Brazil,White.,F,Female,Masters
+22-Oct,10/22/2023,360,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113879,Jiro,Tanaka,jiro.tanaka@example.com,Yes,Japan,White.,M,Male,Masters
+23-Oct,10/23/2023,361,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113880,Sofia,Rodriguez,sofia.rodriguez@example.com,Yes,Spain,White.,F,Female,Masters
+24-Oct,10/24/2023,362,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113881,Diego,Oliveira,diego.oliveira@example.com,Yes,Brazil,White.,M,Male,Masters
+25-Oct,10/25/2023,363,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113882,Yuna,Kim,yuna.kim@example.com,Yes,South Korea,White.,F,Female,Masters
+26-Oct,10/26/2023,364,103,Friendship Package, $ 30.00 ,3, $ 90.00 ,113883,Adam,Ibrahim,adam.ibrahim@example.com,Yes,Lebanon,White.,M,Male,Masters
+27-Oct,10/27/2023,365,103,Friendship Package, $ 30.00 ,1, $ 30.00 ,113884,Chihiro,Yamada,chihiro.yamada@example.com,Yes,Japan,White.,F,Female,Masters
+28-Oct,10/28/2023,366,103,Friendship Package, $ 30.00 ,6, $ 180.00 ,113885,Malik,Ali,malik.ali@example.com,Yes,Pakistan,White.,M,Male,Masters
+29-Oct,10/29/2023,367,103,Friendship Package, $ 30.00 ,6, $ 180.00 ,113886,Sakura,Takahashi,sakura.takahashi@example.com,Yes,Japan,White.,F,Female,Masters
+30-Oct,10/30/2023,368,103,Friendship Package, $ 30.00 ,9, $ 270.00 ,113887,Ivan,Petrov,ivan.petrov@example.com,Yes,Russia,White.,M,Male,No Degree
+31-Oct,10/31/2023,369,103,Friendship Package, $ 30.00 ,1, $ 30.00 ,113888,Aisha,Patel,aisha.patel@example.com,Yes,India,White.,F,Female,No Degree
+1-Nov,11/01/2023,370,106,Free Membership, $ -   ,12, $ -   ,113889,Lorenzo,Costa,lorenzo.costa@example.com,Yes,Portugal,White.,M,Male,No Degree
+2-Nov,11/02/2023,371,106,Free Membership, $ -   ,12, $ -   ,113890,Yuki,Sato,yuki.sato@example.com,Yes,Japan,White.,F,Female,No Degree
+3-Nov,11/03/2023,372,106,Free Membership, $ -   ,12, $ -   ,113891,Ahmed,Hassan,ahmed.hassan@example.com,Yes,Egypt,White.,M,Male,No Degree
+4-Nov,11/04/2023,373,106,Free Membership, $ -   ,12, $ -   ,113892,Alina,Ivanova,alina.ivanova@example.com,Yes,Russia,White.,F,Female,No Degree
+5-Nov,11/05/2023,374,106,Free Membership, $ -   ,12, $ -   ,113893,Anton,Popov,anton.popov@example.com,Yes,Russia,White.,M,Male,No Degree
+6-Nov,11/06/2023,375,106,Free Membership, $ -   ,12, $ -   ,113894,Zara,Khan,zara.khan@example.com,Yes,Pakistan,White.,F,Female,No Degree
+7-Nov,11/07/2023,376,106,Free Membership, $ -   ,12, $ -   ,113895,Ethan,Nguyen,ethan.nguyen@example.com,Yes,Vietnam,White.,M,Male,No Degree
+8-Nov,11/08/2023,377,106,Free Membership, $ -   ,12, $ -   ,113896,Kana,Yamada,kana.yamada@example.com,Yes,Japan,White.,F,Female,No Degree
+9-Nov,11/09/2023,378,106,Free Membership, $ -   ,12, $ -   ,113897,Marco,Fernandez,marco.fernandez@example.com,Yes,Spain,White.,M,Male,No Degree
+10-Nov,11/10/2023,379,106,Free Membership, $ -   ,12, $ -   ,113898,Yara,Abadi,yara.abadi@example.com,Yes,Lebanon,White.,F,Female,No Degree
+11-Nov,11/11/2023,380,106,Free Membership, $ -   ,12, $ -   ,113899,Noah,Fischer,noah.fischer@example.com,No,Germany,White.,M,Male,No Degree
+12-Nov,11/12/2023,381,106,Free Membership, $ -   ,12, $ -   ,113900,Mei,Chang,mei.chang@example.com,No,Taiwan,White.,F,Female,No Degree
+13-Nov,11/13/2023,382,106,Free Membership, $ -   ,12, $ -   ,113901,Rafael,Rodriguez, rafael.rodriguez@example.com,No, Spain,White., M,Male,No Degree
+14-Nov,11/14/2023,383,106,Free Membership, $ -   ,12, $ -   ,113902,Aisha,Patel,aisha.patel@example.com,No,India,White.,F,Female,No Degree
+15-Nov,11/15/2023,384,106,Free Membership, $ -   ,12, $ -   ,113903,Kaito,Watanabe,kaito.watanabe@example.com,No,Japan,White.,M,Male,No Degree
+16-Nov,11/16/2023,385,106,Free Membership, $ -   ,12, $ -   ,113904,Valeria,Costa,valeria.costa@example.com,No,Portugal,White.,F,Female,No Degree
+17-Nov,11/17/2023,386,106,Free Membership, $ -   ,12, $ -   ,113905,Alexei,Ivanov,alexei.ivanov@example.com,No,Russia,White.,M,Male,No Degree
+18-Nov,11/18/2023,387,106,Free Membership, $ -   ,12, $ -   ,113906,Yuna,Park,yuna.park@example.com,No,South Korea,White.,F,Female,No Degree
+19-Nov,11/19/2023,388,106,Free Membership, $ -   ,12, $ -   ,113907,Matteo,Bianchi,matteo.bianchi@example.com,No,Italy,White.,M,Male,No Degree
+20-Nov,11/20/2023,389,106,Free Membership, $ -   ,12, $ -   ,113908,Leila,Al-Farsi,leila.alfarsi@example.com,No,Saudi Arabia,Native Hawaiian or Other Pacific Islander. ...,F,Female,No Degree
+21-Nov,11/21/2023,390,106,Free Membership, $ -   ,12, $ -   ,113909,Ryan,Lee,ryan.lee@example.com,No,USA,Native Hawaiian or Other Pacific Islander. ...,M,Male,No Degree
+22-Nov,11/22/2023,391,106,Free Membership, $ -   ,12, $ -   ,113910,Mei,Kato,mei.kato@example.com,No,Japan,Native Hawaiian or Other Pacific Islander. ...,F,Female,No Degree
+23-Nov,11/23/2023,392,106,Free Membership, $ -   ,12, $ -   ,113911,Eli,Morales,eli.morales@example.com,No,Mexico,Native Hawaiian or Other Pacific Islander. ...,M,Male,No Degree
+24-Nov,11/24/2023,393,106,Free Membership, $ -   ,12, $ -   ,113912,Aaradhya,Verma,aaradhya.verma@example.com,No,India,Native Hawaiian or Other Pacific Islander. ...,F,Female,No Degree
+25-Nov,11/25/2023,394,106,Free Membership, $ -   ,12, $ -   ,113913,Luca,Russo,luca.russo@example.com,No,Italy,Native Hawaiian or Other Pacific Islander. ...,M,Male,No Degree
+26-Nov,11/26/2023,395,106,Free Membership, $ -   ,12, $ -   ,113914,Yuki,Sato,yuki.sato@example.com,No,Japan,Native Hawaiian or Other Pacific Islander. ...,F,Female,No Degree
+27-Nov,11/27/2023,396,106,Free Membership, $ -   ,12, $ -   ,113915,Samir,Patel,samir.patel@example.com,Yes,India,Native Hawaiian or Other Pacific Islander. ...,M,Male,No Degree
+28-Nov,11/28/2023,397,106,Free Membership, $ -   ,12, $ -   ,113916,Elin,Hansen,elin.hansen@example.com,No,Norway,Native Hawaiian or Other Pacific Islander. ...,F,Female,Masters
+29-Nov,11/29/2023,398,105,Consultation, $ 200.00 ,1, $ 200.00 ,113917,Leo,Silva,leo.silva@example.com,Yes,Brazil,Native Hawaiian or Other Pacific Islander. ...,M,Male,Bachelors
+30-Nov,11/30/2023,399,105,Consultation, $ 200.00 ,1, $ 200.00 ,113918,Haruka,Takahashi,haruka.takahashi@example.com,No,Japan,Native Hawaiian or Other Pacific Islander. ...,F,Female,PHD
+1-Dec,12/01/2023,400,105,Consultation, $ 200.00 ,1, $ 200.00 ,113919,Ahmed,El-Masry,ahmed.elmasry@example.com,Yes,Egypt,Native Hawaiian or Other Pacific Islander. ...,M,Male,Bachelors
